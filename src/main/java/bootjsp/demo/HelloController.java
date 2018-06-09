@@ -12,7 +12,7 @@ public class HelloController {
     public String getMain() {
 
         System.out.println("Done");
-        return "index.jsp";
+        return "index";
 
     }
 
