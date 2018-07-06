@@ -3,6 +3,7 @@
 <body>
 
 
+
 <form action="addStudent" method="post">
 
     <input type="text" name="name" id="name">
